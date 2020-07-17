@@ -15,5 +15,8 @@ public class NameLocator  {
 	{
 		System.out.println("Just for test");
 	}
-		
+	public void getdetails()
+	{
+		System.out.println("Just for details");
+	}
 	}
