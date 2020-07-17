@@ -11,6 +11,9 @@ public class NameLocator  {
 		
 		}
 	
-	
+	public void getData()
+	{
+		System.out.println("Just for test");
+	}
 		
 	}
