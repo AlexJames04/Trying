@@ -18,5 +18,13 @@ public class NameLocator  {
 	public void getdetails()
 	{
 		System.out.println("Just for details");
+		System.out.println("Changes from the develop branch");
+		
+	}
+	public void Develop()
+	{
+		System.out.println("Created from th develop branch");
+		System.out.println("Changes from the develop branch");
+		
 	}
 	}
